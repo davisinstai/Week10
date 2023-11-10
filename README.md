@@ -1,7 +1,5 @@
-# CS154-Week9
+# CS154-Week10
 
 Topics:
-* Copying python objects
-* Python memory model
-* Introduction to transformers
+* Transformers!
 
